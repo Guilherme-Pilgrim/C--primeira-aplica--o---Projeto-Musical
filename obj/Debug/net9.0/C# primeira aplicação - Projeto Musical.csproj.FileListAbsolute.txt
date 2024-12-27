@@ -12,3 +12,4 @@ C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e or
 C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.pdb
 C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.genruntimeconfig.cache
 C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\ref\C# primeira aplicação - Projeto Musical.dll
+c:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.sourcelink.json
