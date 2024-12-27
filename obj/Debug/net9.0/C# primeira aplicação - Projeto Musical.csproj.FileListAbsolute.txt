@@ -1,0 +1,14 @@
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\bin\Debug\net9.0\C# primeira aplicação - Projeto Musical.exe
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\bin\Debug\net9.0\C# primeira aplicação - Projeto Musical.deps.json
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\bin\Debug\net9.0\C# primeira aplicação - Projeto Musical.runtimeconfig.json
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\bin\Debug\net9.0\C# primeira aplicação - Projeto Musical.dll
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\bin\Debug\net9.0\C# primeira aplicação - Projeto Musical.pdb
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.AssemblyInfoInputs.cache
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.AssemblyInfo.cs
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.csproj.CoreCompileInputs.cache
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.dll
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\refint\C# primeira aplicação - Projeto Musical.dll
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.pdb
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\C# primeira aplicação - Projeto Musical.genruntimeconfig.cache
+C:\Users\user\Meu Drive\Estudos Dev\Alura\C# Tech Guide\C# - Fundamentos\C# e orientação a objetos\C# primeira aplicação - Projeto Musical\obj\Debug\net9.0\ref\C# primeira aplicação - Projeto Musical.dll
